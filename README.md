@@ -16,3 +16,7 @@ soup = BeautifulSoup(data)
 
 for link in soup.find_all('a'):
 	print(link.get('href'))
+
+
+
+I got my information from http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/

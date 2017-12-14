@@ -3,7 +3,7 @@
 # use pip install to download
 # I got my information from http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/
 
-from bs4 import BeutifulSoup
+from bs4 import BeautifulSoup
 
 import requests
 
